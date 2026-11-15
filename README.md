@@ -10,8 +10,8 @@ Course project: Integrative Programming 2 (API Backend Development), CCDI Sorsog
 
 | MEMBER | ROLE |
 | ------ | ---- |
-| Diomar Mangubat | <Backend Developer or Frontend Developer> |
-| Andrea Lucas | <Backend Developer or Frontend Developer> |
+| Diomar Mangubat | Backend |
+| Andrea Lucas | Frontend |
 
 ## Tech Stack
 
